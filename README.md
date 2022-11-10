@@ -1,0 +1,5 @@
+                    APP
+                     |
+        AppHeader         AppFooter
+           |
+       AppHeaderNav
